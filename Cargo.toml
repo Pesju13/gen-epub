@@ -1,0 +1,12 @@
+[package]
+name = "gen-epub"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "0.22.1"
+consio = "0.1.2"
+rand = "0.8.5"
+zip = "2.0.0"
